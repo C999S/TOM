@@ -1,7 +1,7 @@
 import datetime;now = datetime.date.today();target = datetime.date(2023, 10, 30)
 if now >=target:exit(" توقفت الاداه حب راسل المطور حتى يفعلك @T_0_M0 | @hwxdw")
 else:print("")
-print(' \033[1;35m[\033[1;32m+\033[1;35m] انـتـضـر قـلـيـلا ')
+print(' \033[1;35m[\033[1;32m+\033[1;35m] اليلق رضتنا  ')
 import requests
 import os
 import time
